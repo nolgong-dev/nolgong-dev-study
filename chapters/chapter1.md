@@ -18,7 +18,7 @@ Vue.js 는 다른 프레임워크 (앵귤러, 리액트)에 비해 매우 작고
 - 가상DOM을 사용합니다
 - 컴포넌트를 제공합니다
 - 뷰에만 집중하고 있고, 라우터, 상태관리를 위해 써드파티 라이브러리를 사용합니다.
-- Vue 에서는 <template> 를 사용합니다.
+- Vue 에서는 `<template>` 를 사용합니다.
 
     <!-- 바로 이렇게 말이죠 !! -->
     <template>
@@ -130,7 +130,7 @@ body 태그에서 vue를 불러오기 전에 다음과 같이 코드를 삽입�
 
 지금까지 잘 렌더링이 됐다면, 한번 상단의 Console 탭을 열어서 다음과 같이 명령어를 입력해보세요.
 
->> [app.name](http://app.name) ="nolgong"
+>> app.name ="nolgong"
 
 ![](https://github.com/nolgong-dev/Vue-Study/MDimg/_2019-05-16__3-01983c7d-7aa3-4d58-b21c-65a97388cdeb.37.16.png)
 
