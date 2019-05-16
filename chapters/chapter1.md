@@ -133,7 +133,7 @@ body 태그에서 vue를 불러오기 전에 다음과 같이 코드를 삽입�
 
 >> app.name ="nolgong"
 
-![](https://github.com/nolgong-dev/Vue-Study/blob/master/MDimg/_2019-05-16__3-01983c7d-7aa3-4d58-b21c-65a97388cdeb.37.16.png)
+![](https://raw.githubusercontent.com/nolgong-dev/Vue-Study/master/MDimg/ch1-1.png)
 
 위와 같이, 콘솔에서 `app.name = "nolong"` 라고 입력을 해보니 우측 화면에 바로 값이 바뀌어서 렌더링됩니다. 지금은, **one-way binding** 이 되어서 값을 업데이트하면 저렇게 반영이 바로 됩니다.
 
