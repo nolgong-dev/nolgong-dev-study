@@ -8,6 +8,7 @@
 * [chapter 2 - 디렉티브 알기](https://github.com/nolgong-dev/Vue-Study/blob/master/vue-study/chapter2.md)
 * [chapter 3 - computed 속성 알기](https://github.com/nolgong-dev/Vue-Study/blob/master/vue-study/chapter3.md)
 * [chapter 4 - Vue-CLI로 webpack 사용법 알기](https://github.com/nolgong-dev/Vue-Study/blob/master/vue-study/chapter4.md)
+* [chapter 5 - Vue.js 2.x 라이프사이클 이해하기](https://github.com/nolgong-dev/Vue-Study/blob/master/vue-study/chapter5.md)
 
 ### 필수요소 외에 개발에 도움될 만한 링크
 * [뷰 라우터 가드](https://joshua1988.github.io/web-development/vuejs/vue-router-navigation-guards/)
