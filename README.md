@@ -19,3 +19,10 @@
 
 
 ## Django study
+
+### REST API 관련 링크
+* [Django REST API의 필요성과 간단한 사용 방법](https://medium.com/@whj2013123218/django-rest-api%EC%9D%98-%ED%95%84%EC%9A%94%EC%84%B1%EA%B3%BC-%EA%B0%84%EB%8B%A8%ED%95%9C-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95-a95c6dd195fd)
+* [Django REST Framework (DRF)](https://velog.io/@ground4ekd/django-rest-framework)
+### JWT 토큰 관련 링크
+* [토큰(Token) 기반 인증에 대한 소개](https://velopert.com/2350)
+* [JSON Web Token 소개 및 구조](https://velopert.com/2389)
